@@ -1,8 +1,8 @@
 ## Workshop:
-```PY
-## NAME: K KESAVA SAI
-## REGISTER NUMBER: 212223230105
-```
+
+## NAME: ADARSH CHOWDARY R
+## REGISTER NUMBER: 212223040166
+
 ## AIM:
  Data Cleaning and Data Analysis 
 ## EXPLANATION:
